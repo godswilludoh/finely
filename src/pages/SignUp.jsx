@@ -9,7 +9,7 @@ const SignUp = () => {
 				<div className='col-md-5'>
 					<SignUpForm />
 				</div>
-				<div className='col-md-7'>
+				<div className='col-md-7 my-auto'>
 					<img className='img-fluid w-100' src={SignupImg} alt='signup img' />
 				</div>
 			</div>

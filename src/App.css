@@ -7,6 +7,17 @@
 	font-family: 'Syne', sans-serif;
 }
 
-.App {
-	text-align: center;
+label {
+	font-size: 1.2rem;
+}
+
+input.form-control:focus {
+	background: #f0f0ff;
+}
+
+.error {
+	position: absolute;
+	color: red;
+	font-size: 0.9rem;
+	margin-top: 0.1rem;
 }
