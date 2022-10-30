@@ -51,7 +51,7 @@ const SignUpForm = () => {
 							Register
 						</button>
 
-						<button className='btn btn-danger mt-3 ml-5' type='reset'>
+						<button className='btn btn-danger mt-3 mx-5' type='reset'>
 							Reset
 						</button>
 					</Form>
